@@ -1,0 +1,68 @@
+BLOTCH
+HEALTHY_APPLE
+ROT
+SCAB
+rust
+Anthracnose_guava
+fruit fly
+healthy_guava
+Anthracnose_mango
+Ceratitis-Cosyra
+Healthy_mango
+Malformation
+bacterial_spot_peach
+brown_rot
+healthy_peach
+shot_hole
+shot_hole_leaf
+Crown_Rot_Disease
+Fruit_Fasciation_Disorder
+Fruit_Rot_Disease
+Mealybug_Wilt_Disease
+Multiple_Crown_Disorder
+Healthy_pineapple
+Root_Rot_Disease
+Anthracnose_tomato
+Bacterial_Spot
+Blossom end rot
+Healthy Tomato
+Spotted wilt Virus
+blackmutinfected
+Discoloured
+Discoloured-sprouted
+blackmutinfected-cuts
+blacksmutinfected-rotten
+blacksmutinfected-sprouted
+cuts
+discoloured-blacksmutinfected
+Healthy onion
+rooted
+rooting
+rotten
+sprouted
+sprouted-cuts
+sprouted-rooting
+stem
+NALLA TAMARA
+GEMINI
+YERRA NELLI
+KAYA KULLU
+GEMINI-onion
+PACHI KAYA KULLU
+Curling
+Yellow
+Gemini-Virus
+Komma tegulu
+bacterial spot_cauliflower
+black rot
+downy mildew
+healthy_cauliflower
+Cabbage-Alternaria_leaf_spot
+Cabbage-Bacterial_leaf_spot
+Cabbage-Black_rot
+Cabbage-Downy_mildew
+Cabbage-Fusarium_wilt
+Cabbage-Healthy
+Cabbage-Powdery_mildew
+Cabbage-Ringspot
+Cabbage-Sclerotinia_rot
